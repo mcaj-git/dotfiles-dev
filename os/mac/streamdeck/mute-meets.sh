@@ -1,1 +1,1 @@
-/Users/rafa.gomez/.dotfiles/bin/sdot google-chrome meets-toggle_mute
+/Users/vscode/.dotfiles/bin/sdot google-chrome meets-toggle_mute

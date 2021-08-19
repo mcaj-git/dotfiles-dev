@@ -11,7 +11,7 @@ source "$DOTLY_PATH/scripts/core/_main.sh"
 ##?    top_stargazers <repo>
 ##?
 ##? Example:
-##?   top_stargazers rgomezcasas/dotfiles
+##?   top_stargazers mcaj-git/dotfiles
 docs::parse "$@"
 
 log::warning "This could take a while!"

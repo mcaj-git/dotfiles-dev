@@ -15,7 +15,7 @@ docs::parse "$@"
 
 project_root_directories=(
   "$HOME/Code/codely/"*
-  "$HOME/Code/rgomezcasas/"*
+  "$HOME/Code/mcaj-git/"*
   "$DOTFILES_PATH"
 )
 [[ "$choose" == "false" ]] && filterer="fzf" || filterer="choose -c 181818"

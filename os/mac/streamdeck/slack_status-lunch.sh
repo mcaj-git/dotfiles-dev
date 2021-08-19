@@ -1,1 +1,1 @@
-/Users/rafa.gomez/.dotfiles/bin/sdot slack change_status 'Cooomiendo!' '🥙' 3600
+/Users/vscode/.dotfiles/bin/sdot slack change_status 'Cooomiendo!' '🥙' 3600

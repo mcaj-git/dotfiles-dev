@@ -1,11 +1,11 @@
 <h3 align="center">
-    rgomezcasas/dotfiles
+    mcaj-git/dotfiles
     <a href="mac"><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apple.svg" /></a>
     <a href="linux"><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linux.svg" /></a>
     <a href="linux"><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/windows.svg" /></a>
 </h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1331435/70709921-530e8780-1cde-11ea-814c-7b63566670d4.gif" alt="rgomezcasas/dotfiles" width="80%">
+  <img src="https://user-images.githubusercontent.com/1331435/70709921-530e8780-1cde-11ea-814c-7b63566670d4.gif" alt="mcaj-git/dotfiles" width="80%">
   <br>
   <sub>Simple, fast, productivity-increaser dotfiles</sub>
 </p>
@@ -18,8 +18,8 @@
 
 
 ## 🚀 Installation
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rgomezcasas/dotfiles/master/installer)
+```bash <(curl -s https://raw.githubusercontent.com/mcaj-git/dotfiles/master/installer)
+
 ```
 Also, I have my **personal** [installation guide](doc/installation-guide.md).
 
@@ -45,7 +45,7 @@ This is a way faster than using oh-my-zsh with the minimal setup.
 
 ## 🥳 Usage
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1331435/67591559-fa9b1f00-f75d-11e9-8b87-d8f2b2f0be51.gif" alt="rgomezcasas/dotfiles">
+  <img src="https://user-images.githubusercontent.com/1331435/67591559-fa9b1f00-f75d-11e9-8b87-d8f2b2f0be51.gif" alt="mcaj-git/dotfiles">
   Execute <code>dot</code> in your terminal and you'll see all the scripts (and its documentation).
 </p>
 

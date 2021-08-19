@@ -3,7 +3,7 @@
 
  * **uuid_code**: `~/.dotfiles/bin/uuid_code` ⇒ ⌘+F1
  * **open_finder**: `open ~` ⇒ ⌘+§
- * **autocomplete**: `/Users/rafa.gomez/.dotfiles/scripts/paste_autocompletion "/Users/rafa.gomez/Google Drive/Me/Other/autocompletion.txt" "->"` ⇒ ⌘+Shift+9
+ * **autocomplete**: `/Users/vscode/.dotfiles/scripts/paste_autocompletion "/Users/vscode/Google Drive/Me/Other/autocompletion.txt" "->"` ⇒ ⌘+Shift+9
 
 ## How to add a new service
 1. Open automator
